@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RUFConfig/static/css/main.cef71ce1.css",
+    "main.js": "/RUFConfig/static/js/main.5091c6e4.js",
+    "index.html": "/RUFConfig/index.html",
+    "main.cef71ce1.css.map": "/RUFConfig/static/css/main.cef71ce1.css.map",
+    "main.5091c6e4.js.map": "/RUFConfig/static/js/main.5091c6e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef71ce1.css",
+    "static/js/main.5091c6e4.js"
+  ]
+}
