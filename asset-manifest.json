@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RUFConfig/static/css/main.cef71ce1.css",
-    "main.js": "/RUFConfig/static/js/main.9fdc4c34.js",
+    "main.js": "/RUFConfig/static/js/main.5e705927.js",
     "index.html": "/RUFConfig/index.html",
     "main.cef71ce1.css.map": "/RUFConfig/static/css/main.cef71ce1.css.map",
-    "main.9fdc4c34.js.map": "/RUFConfig/static/js/main.9fdc4c34.js.map"
+    "main.5e705927.js.map": "/RUFConfig/static/js/main.5e705927.js.map"
   },
   "entrypoints": [
     "static/css/main.cef71ce1.css",
-    "static/js/main.9fdc4c34.js"
+    "static/js/main.5e705927.js"
   ]
 }
